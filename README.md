@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SCOUT-Count: PyTorch Implementation
 
 Official PyTorch implementation of the paper **"SCOUT-Count: Stylization with Covariance-Whitening and Uncertainty for Domain-Generalized Remote Sensing Object Counting"**.
@@ -60,3 +61,6 @@ The model was introduced in the following paper:
 
 > Shi, H., Tan, Z., Zhang, Z., Wei, H., Hu, Y., Zhang, Y., Chen, Z., 2025.  *Remote sensing semantic segmentation quality assessment based on vision language model.*  arXiv:2502.13990.
 
+=======
+# SCOUT-Count
+>>>>>>> 187e2b05906838509c74b953b63d63e5d01d922e
