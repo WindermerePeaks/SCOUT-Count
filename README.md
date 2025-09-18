@@ -53,7 +53,7 @@ python test.py
 
 Coming soon.
 
-## Pre-trained VLMs
+### External Vision-Language Models
 
 This project leverages **CLIP-RS**, a pre-trained vision-language model tailored for remote sensing.  
 The model was introduced in the following paper:
