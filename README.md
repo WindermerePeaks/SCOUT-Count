@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SCOUT-Count: PyTorch Implementation
 
 Official PyTorch implementation of the paper **"SCOUT-Count: Stylization with Covariance-Whitening and Uncertainty for Domain-Generalized Remote Sensing Object Counting"**.
